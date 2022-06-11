@@ -1,6 +1,7 @@
 <h1>Hi! Nice to meet you! 👋</h1>
 <p>Welcome to my page! </br> I'm Hojin, but feel free to call me Tom, and I'm a Fullstack developer from <img src="" width="13"/> <b>Bucheon, Korea</b>, currently living in <img src="" width="13"/> <b>New York, United States</b>. 
 </br></br> <em>Software Enginner at <a href="https://www.stonybrook.edu/">Stony Brook University</a></em> </p>
+<em>Spending time on Leetcode like a leech</em>
 
 <h2> Things I code with </h2>
 
