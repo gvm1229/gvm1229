@@ -1,7 +1,6 @@
 <h1>Hi! Nice to meet you! 👋</h1>
-<p>Welcome to my page! </br> I'm Hojin, but feel free to call me Tom, and I'm a Fullstack developer from <img src="" width="13"/> <b>Bucheon, Korea</b>, currently living in <img src="" width="13"/> <b>New York, United States</b>. 
-</br></br> <em>Software Enginner at <a href="https://www.stonybrook.edu/">Stony Brook University</a></em> </p>
-<em>Spending time on Leetcode like a leech</em>
+<p>Welcome to my page! </br> I'm Hojin, but feel free to call me Tom, and I'm a Front-End developer from <b>Bucheon, Korea</b>, currently working on-site at <b>Global Bridge Inc</b>. in <b>Incheon, Korea</b>. 
+</br></br> <em>B.S. in Computer Science from <a href="https://www.stonybrook.edu/">Stony Brook University</a></em> </p>
 
 <h2> Things I code with </h2>
 
@@ -10,15 +9,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)-->
 
