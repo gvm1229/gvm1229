@@ -9,19 +9,27 @@ I'm Hojin, but feel free to call me Tom, and I'm a Front-End developer from <b>B
 
 ### Web Front-End
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&link=https://react.dev/)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-d4d4d8?style=for-the-badge&logo=Next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=Astro&logoColor=white&link=https://astro.build/)](https://astro.build/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind+CSS&logoColor=white&link=https://tailwindcss.com/)](https://tailwindcss.com/)
 
 ### Web Back-End
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&link=mongodb.com)](mongodb.com)
 [![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/)](https://expressjs.com/)
 
-### Web Runtime
+### Web Runtime & Package Managers
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white&link=https://yarnpkg.com/)](https://yarnpkg.com/)
+
+### Web Dev Tools
+
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white&link=https://storybook.js.org/)](https://storybook.js.org/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white&link=https://eslint.org/)](https://eslint.org/)
 
 ### Web Deployment
 
