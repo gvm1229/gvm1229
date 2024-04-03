@@ -45,6 +45,15 @@ I'm Hojin, but feel free to call me Tom, and I'm a Front-End developer from <b>B
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 
+## What I'm currently learning
+
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon+S3&logoColor=white&link=https://aws.amazon.com/s3/)](https://aws.amazon.com/s3/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white&link=https://redis.io/)](https://redis.io/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white&link=https://www.rust-lang.org/)](https://www.rust-lang.org/)
+
 ## Where to find me
 
 <p>
