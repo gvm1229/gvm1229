@@ -5,6 +5,8 @@ I'm Hojin, but feel free to call me Tom, and I'm a Front-End developer from <b>B
 
 <em>B.S. in Computer Science from <a href="https://www.stonybrook.edu/">Stony Brook University</a></em> </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gvm1229)](https://solved.ac/gvm1229/)
+
 ## Things I code with
 
 ### Web Front-End
